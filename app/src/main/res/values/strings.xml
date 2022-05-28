@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Suez City</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="neighborhood">Al-Gharib neighborhood</string>
+    <string name="nationalmuseum">Suez National Museum</string>
+    <string name="lucinda">Lusinda Hotel</string>
+    <string name="porto">Porto Sokhna</string>
+    <string name="crab">Crab</string>
+    <string name="seafoodsoap">Seafood Soup</string>
+    <string name="elsewasy">El-Sewasy</string>
+    <string name="fares">Fares</string>
+    <string name="description">description</string>
+    <array name="tabs">
+        <item>Sightseeing</item>
+        <item>Hotels</item>
+        <item>Food</item>
+        <item>Restaurants</item>
+    </array>
+</resources>
